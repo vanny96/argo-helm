@@ -60,6 +60,7 @@ rules:
   - workflows/finalizers
   - workflowtasksets
   - workflowtasksets/finalizers
+  - workflowtasksets/status
   - workflowartifactgctasks
   verbs:
   - get
